@@ -15,5 +15,4 @@ this question.
 * Also experimented on taking some more window of past power values and reported the
 performance (For example taking a window of two hours instead of one).
 
-The dataset is available at https://archive.ics.uci.edu/ml/
-machine-learning-databases/00235/household_power_consumption.zip.
+The dataset is available at https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip.
